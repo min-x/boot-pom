@@ -1,5 +1,5 @@
 
-[项目GitHub链接](https://github.com/min-x/boot-pom) 
+[项目GitHub链接](https://github.com/min-x/min-x-boot.git) 
 
 本项目是根据SpringBoot和SpringCloud为基础，构建更适合快速开发及上手的基础boot pom。
 
