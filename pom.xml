@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.x</groupId>
-    <artifactId>boot-pom</artifactId>
+    <artifactId>min-x-boot</artifactId>
     <version>${parent.version}</version>
     <name>${project.artifactId}</name>
     <packaging>pom</packaging>
