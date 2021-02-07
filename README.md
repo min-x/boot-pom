@@ -3,6 +3,17 @@
 
 本项目是根据SpringBoot和SpringCloud为基础，构建更适合快速开发及上手的基础boot pom。
 
+## 项目使用
+在pom.xml引入如下配置即可：
+```aidl
+<parent>
+    <groupId>com.x</groupId>
+    <artifactId>min-x-boot</artifactId>
+    <version>2.4.2</version>
+    <relativePath/> <!-- lookup parent from repository -->
+</parent>
+```
+
 ## 项目内容
 1.版本与SpringBoot保持一致，引用SpringCloud，引用SpringCloud版本请详见properties配置，如果需要更改请添加对应version。
 
